@@ -6,16 +6,16 @@
 //  Copyright © 2017年 wuyunhai. All rights reserved.
 //
 
-#import "WJConfig.h"
+#import "ZYConfig.h"
 
-@interface WJConfig ()
+@interface ZYConfig ()
 
 @property(nonatomic, copy) NSDictionary *configCache;
 
 @end
 
 
-@implementation WJConfig
+@implementation ZYConfig
 
 -(NSDictionary *)getConfig:(NSString *)configName {
     return [_configCache[configName] copy];
@@ -23,7 +23,7 @@
 
 -(void)singleInit {
     //加载配置
-    NSString *configFileName = [[NSBundle mainBundle] infoDictionary][@"WJConfigFile"];
+    NSString *configFileName = [[NSBundle mainBundle] infoDictionary][@"ZYConfigFile"];
     //异步加载文件
     if (!configFileName) {
         configFileName = @"app-config";

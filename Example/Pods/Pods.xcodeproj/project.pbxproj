@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		019367E8E361BC79C9E173ED4BF6F955 /* WJConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = D435C749A63268D941C9EF00580DC934 /* WJConfig.m */; };
+		019367E8E361BC79C9E173ED4BF6F955 /* ZYConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = D435C749A63268D941C9EF00580DC934 /* ZYConfig.m */; };
 		01D15C48FC52507212FB8BB5F8EE1CEB /* Pods-ZYConfig_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B7655F13C50B4ED14FE5A08DE13BFB1 /* Pods-ZYConfig_Tests-dummy.m */; };
-		4A24E6DCE42606004BD8E4A3C7FA7442 /* WJConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 9348D9D1C68A9B1935ED5CC6597CEFC9 /* WJConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4A24E6DCE42606004BD8E4A3C7FA7442 /* ZYConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 9348D9D1C68A9B1935ED5CC6597CEFC9 /* ZYConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73FB0D40EABB85871C7AA046D1D5D9E6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		77A9B8CE530095AB81F3CD1FC68933EF /* Pods-ZYConfig_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C7DB8C59A8C603DC6931D5D8FA48187 /* Pods-ZYConfig_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7FFE7D563E2191D9E08F586B0A0A16A9 /* ZYConfig-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF2DFB1BB93EE9722E66CC1FEAC0820 /* ZYConfig-dummy.m */; };
@@ -57,7 +57,7 @@
 		688862929775D3661EC5EAB75CB908C2 /* Pods-ZYConfig_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZYConfig_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7161944C13D016F1FBD601304F86293C /* Pods-ZYConfig_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZYConfig_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7C7DB8C59A8C603DC6931D5D8FA48187 /* Pods-ZYConfig_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZYConfig_Tests-umbrella.h"; sourceTree = "<group>"; };
-		9348D9D1C68A9B1935ED5CC6597CEFC9 /* WJConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WJConfig.h; path = ZYConfig/Classes/WJConfig.h; sourceTree = "<group>"; };
+		9348D9D1C68A9B1935ED5CC6597CEFC9 /* ZYConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ZYConfig.h; path = ZYConfig/Classes/ZYConfig.h; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E3D3A31851A473CA1E23A3681ED2863 /* ZYConfig.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ZYConfig.modulemap; sourceTree = "<group>"; };
 		9FAC0ADDC41EEE5325963FB883997DB3 /* ZYConfig.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = ZYConfig.podspec; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 		AA55CD2374EE2B7F918AA87BD94BDFB1 /* Pods_ZYConfig_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZYConfig_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE6D268A1DBF597799993D6EE0FBDF08 /* Pods-ZYConfig_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZYConfig_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		D2BF94B83ABAAC75EBD001E7C4EE18D4 /* Pods-ZYConfig_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZYConfig_Tests.modulemap"; sourceTree = "<group>"; };
-		D435C749A63268D941C9EF00580DC934 /* WJConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WJConfig.m; path = ZYConfig/Classes/WJConfig.m; sourceTree = "<group>"; };
+		D435C749A63268D941C9EF00580DC934 /* ZYConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ZYConfig.m; path = ZYConfig/Classes/ZYConfig.m; sourceTree = "<group>"; };
 		D891421F8A10BE8C9507CA229D614214 /* Pods-ZYConfig_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZYConfig_Example-umbrella.h"; sourceTree = "<group>"; };
 		DCF0FE56A94E87F760C9E74A3B4DF35D /* Pods-ZYConfig_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZYConfig_Example-dummy.m"; sourceTree = "<group>"; };
 		DEE93EC82CD845C616A063175BB24787 /* Pods-ZYConfig_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZYConfig_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -157,8 +157,8 @@
 		62164E202E053C3386F43BB889956079 /* ZYConfig */ = {
 			isa = PBXGroup;
 			children = (
-				9348D9D1C68A9B1935ED5CC6597CEFC9 /* WJConfig.h */,
-				D435C749A63268D941C9EF00580DC934 /* WJConfig.m */,
+				9348D9D1C68A9B1935ED5CC6597CEFC9 /* ZYConfig.h */,
+				D435C749A63268D941C9EF00580DC934 /* ZYConfig.m */,
 				56B91A48155922C5CB92531025620D29 /* Pod */,
 				3B458D6C10D6B4276CD529FC9666BB12 /* Support Files */,
 			);
@@ -237,7 +237,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4A24E6DCE42606004BD8E4A3C7FA7442 /* WJConfig.h in Headers */,
+				4A24E6DCE42606004BD8E4A3C7FA7442 /* ZYConfig.h in Headers */,
 				CB454AFCFB650518A6AFF2C718A49987 /* ZYConfig-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -363,7 +363,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				019367E8E361BC79C9E173ED4BF6F955 /* WJConfig.m in Sources */,
+				019367E8E361BC79C9E173ED4BF6F955 /* ZYConfig.m in Sources */,
 				7FFE7D563E2191D9E08F586B0A0A16A9 /* ZYConfig-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
