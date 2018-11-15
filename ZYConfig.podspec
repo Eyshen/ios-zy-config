@@ -14,14 +14,15 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "6.0"
 
-  s.source           = { :git => 'https://github.com/Eyshen/ios-zy-config.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Eyshen/ios-zy-config.git', :tag => "#{s.version}" }
 
   s.exclude_files = "Example"
 
   s.frameworks = "Foundation", "UIKit"
 
-  s.source_files = 'ZYConfig/Classes/**/*'
-
   s.requires_arc = true
 
+  s.source_files = 'ZYConfig/Classes/**/*'
+#s.source_files = 'Classes/*.{h,m}'
+#s.public_header_files = 'Classes/*.h'
 end

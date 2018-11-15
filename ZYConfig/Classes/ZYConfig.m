@@ -1,9 +1,9 @@
 //
-//  WJConfig.m
-//  WJConfig-example
+//  ZYConfig.m
+//  ZYConfig-example
 //
-//  Created by 吴云海 on 17/4/6.
-//  Copyright © 2017年 wuyunhai. All rights reserved.
+//  Created by 张一 on 17/4/6.
+//  Copyright © 2017年 eason. All rights reserved.
 //
 
 #import "ZYConfig.h"
