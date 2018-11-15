@@ -1,22 +1,27 @@
 {
   "name": "ZYConfig",
-  "version": "0.1.0",
-  "summary": "A short description of ZYConfig.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Eyshen/ZYConfig",
+  "version": "1.1",
+  "summary": "组件配置",
+  "homepage": "https://github.com/Eyshen",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "Eyshen": "zxc510789295@163.com"
-  },
-  "source": {
-    "git": "https://github.com/Eyshen/ZYConfig.git",
-    "tag": "0.1.0"
+    "Eason": "eason_zhangyi@163.com"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "6.0"
   },
-  "source_files": "ZYConfig/Classes/**/*"
+  "source": {
+    "git": "https://github.com/Eyshen/ios-zy-config.git",
+    "tag": "1.1"
+  },
+  "exclude_files": "Example",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "source_files": "ZYConfig/Classes/**/*",
+  "requires_arc": true
 }

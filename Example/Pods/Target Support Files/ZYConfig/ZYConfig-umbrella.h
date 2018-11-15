@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "WJConfig.h"
+#import "ZYConfig.h"
 
 FOUNDATION_EXPORT double ZYConfigVersionNumber;
 FOUNDATION_EXPORT const unsigned char ZYConfigVersionString[];

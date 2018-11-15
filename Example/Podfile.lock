@@ -1,5 +1,5 @@
 PODS:
-  - ZYConfig (0.1.0)
+  - ZYConfig (1.1)
 
 DEPENDENCIES:
   - ZYConfig (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZYConfig: 07ad509040132c3f2bf23d0d29356fdbc0532716
+  ZYConfig: 028a49b0cbf0b95d4207d33153cfd51ddf8e4d20
 
 PODFILE CHECKSUM: d65d01231d46bd294b8f883f380263bbe7286fc4
 
