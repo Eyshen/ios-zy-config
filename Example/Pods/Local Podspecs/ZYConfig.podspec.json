@@ -22,6 +22,6 @@
     "Foundation",
     "UIKit"
   ],
-  "source_files": "ZYConfig/Classes/**/*",
-  "requires_arc": true
+  "requires_arc": true,
+  "source_files": "ZYConfig/Classes/**/*"
 }
